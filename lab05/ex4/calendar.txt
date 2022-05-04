@@ -1,0 +1,18 @@
+Análise da classe java.util.Calendar
+
+A classe Java Calendar é constituída por 2 construtores:
+	1. protected Calendar() -> Cria um Calendário com fuso horário e localidade padrão do sistema
+	2. protected Calendar(TimeZone zone, Locale aLocale) -> Cria um Calendário com o fuso horário e a localidade específicos
+Este dois construtores são protegidos para que não sejam acedidos fora desta classe.
+Para esse caso, temos que nos recorrer de outros métodos:
+	1. public static Calendar getInstance()
+	2. public static Calendar getInstance(TimeZone zone)
+	3. public static Calendar getInstance(Locale aLocale)
+	4. public static Calendar getInstance(TimeZone zone,  Locale aLocale)
+A partir destes métodos podemos então criar várias instâncias diferentes de Calendar.
+Para isso, estes métodos chamam o método createCalendar(), que cria um novo objeto Calendar.
+	
+Conclusão:
+	Podemos assim concluir que o padrão de design que a classe Java Calendar utiliza é o Factory Design Pattern, uma vez que 
+	faz uso do método createCalendar() para criar os objetos Calendar.
+
