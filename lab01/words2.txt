@@ -1,0 +1,7 @@
+musica
+cancao
+cantor
+artista
+composicao
+instrumento
+som
