@@ -1,0 +1,24 @@
+Result:
+
+LIST           4     5,8          Left
+SET            3      3,5         Down
+GATO           4      7,1         Down
+RATO           4      7,2        Dright
+ZPX            3      3,7        Upleft
+GRAPH          5     7,4         UP
+STACK          5     5,6          Left
+QUEUE          5     4,9          Left
+TREE           4      5,5        Dright
+OGIVA          5      1,1         Down
+
+
+O . . . X . . . . . 
+G . . . . P . . . . 
+I . . H S . Z . . . 
+V . . P E U E U Q . 
+A K C A T S I L . . 
+. . . R . R . . . . 
+G R . G . . E . . . 
+A . A . . . . E . . 
+T . . T . . . . . . 
+O . . . O . . . . . 

@@ -1,0 +1,9 @@
+Result:
+
+PROGRAMMING    11    12,6         UP
+JAVA           4      9,1         Down
+WORDS          5     2,1          Right
+WORDS          5     11,11        UPleft
+
+ Erro no puzzle palavra {WORDS} so pode aparacer uma vez, refaz o puzzle
+ 

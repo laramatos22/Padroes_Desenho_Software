@@ -1,0 +1,39 @@
+Result:
+
+CASA           4    20,3          Right
+TIJOLO         6    11,8          Right
+PESSOA         6      9,4         Down
+PEIXE          5      3,3        Dright
+CAMA           4    19,17          Left
+VERMELHO       8     12,3         Down
+LANCHEIRA      9      8,11        Dright
+COMPUTADOR    10      3,19         Down
+ESFREGONA      9      2,2         Down
+AIRTON         6    15,5         UP
+MOREIRA        7     8,10         UP
+RILDA          5     6,20         UP
+FLAVIA         6      2,4        Dright
+SILVERIO       8     12,8         Down
+IPHONE         6     11,20         Down
+
+
+. . . . . . . . . . . . . . . . . . . . 
+. E . F . . . . . A . . . . . . . . . A 
+. S P . L . . . . R . . . . . . . . C D 
+. F . E . A . . . I . . . . . . . . O L 
+. R . . I . V . . E . . . . . . . . M I 
+. E . . . X . I . R . . . . . . . . P R 
+. G . . . . E . A O . . . . . . . . U . 
+. O . . . . . . . M L . . . . . . . T . 
+. N . P . . . . . . . A . . . . . . A . 
+. A . E N . . . . . . . N . . . . . D . 
+. . . S O . . T I J O L O C . . . . O I 
+. . V S T . . S . . . . . . H . . . R P 
+. . E O R . . I . . . . . . . E . . . H 
+. . R A I . . L . . . . . . . . I . . O 
+. . M . A . . V . . . . . . . . . R . N 
+. . E . . . . E . . . . . . . . . . A E 
+. . L . . . . R . . . . . . . . . . . . 
+. . H . . . . I . . . . . . . . . . . . 
+. . O . . . . O . . . . . A M A C . . . 
+. . C A S A . . . . . . . . . . . . . . 
