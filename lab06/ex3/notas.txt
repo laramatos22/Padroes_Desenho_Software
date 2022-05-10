@@ -1,0 +1,1 @@
+a solução proposta é a de se utilizar um adapter para servir de ponte entre as duas interfaces, basic e advanced.
